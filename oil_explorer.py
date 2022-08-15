@@ -7,7 +7,7 @@ st.set_page_config(layout="wide")
 # st.image('renewell.jpg')
 
 #set title
-st.title ('U.S. IOR/EOR Well Analytics')
+st.title ('U.S. Well Analytics')
 
 file='Field_Data.csv'
 
