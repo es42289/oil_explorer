@@ -113,7 +113,7 @@ fig_field2.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
 st.plotly_chart(fig_field2, use_container_width=True)
 
 
-st.header('Field Data Pivot Table')
+# st.header('Field Data Pivot Table')
 # # pivot table
 # t = pivot_ui(df_fields)
 # with open(t.src) as t:
