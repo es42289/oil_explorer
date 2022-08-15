@@ -114,10 +114,10 @@ st.plotly_chart(fig_field2, use_container_width=True)
 
 
 st.header('Field Data Pivot Table')
-# pivot table
-t = pivot_ui(df_fields)
-with open(t.src) as t:
-    components.html(t.read(), width=900, height=1000, scrolling=True)
+# # pivot table
+# t = pivot_ui(df_fields)
+# with open(t.src) as t:
+#     components.html(t.read(), width=900, height=1000, scrolling=True)
 
 
 
