@@ -1,6 +1,6 @@
 import streamlit as st, pandas as pd, numpy as np, plotly.express as px
 import streamlit.components.v1 as components
-from pivottablejs import pivot_ui
+# from pivottablejs import pivot_ui
 
 st.set_page_config(layout="wide")
 
